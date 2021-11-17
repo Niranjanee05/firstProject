@@ -1,0 +1,33 @@
+step 1 : Create a folder
+
+step 2 : git init 
+
+step 3 : git config user.email "shanayaniran@gmail.com"
+
+step 4 : git remote add origin " LINK OF THE REPOSITORY IN GITHUB "
+
+step 5 : touch sample.txt
+
+step 6 : git add .
+
+step 7 : git commit -m "First commit"
+
+step 8 : git push origin master
+
+( SSH KEY ERROR - )
+
+git clone LINK
+
+git status - shows the tracked and untracked file
+
+git log - shows the list of commits
+
+git branch *branch-name* - to create a branch
+
+git checkout *branch-name* - switch between the branch
+
+git merge *branch-name* - merge branches (it does auto commit)
+
+git branch -d *branch-name*
+
+
