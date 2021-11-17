@@ -7,3 +7,6 @@ uninstall :
 
 step 1 : sudo -i
 step 2 : vmware-installer -u vmware-workstation
+
+CLOUDSIM :
+git clone https://github.com/michaelfahmy/cloudsim-task-scheduling
