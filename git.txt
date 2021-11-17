@@ -14,7 +14,8 @@ step 7 : git commit -m "First commit"
 
 step 8 : git push origin master
 
-( SSH KEY ERROR - )
+( SSH KEY ERROR - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 git clone LINK
 
