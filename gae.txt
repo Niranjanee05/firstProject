@@ -1,3 +1,26 @@
+step 1 : Open Google cloud platform
+step 2 : Open Console
+step 3 : Open hamburger menu 
+step 4 : Choose API and services and select Library
+step 5 : Search App Engine admin API and enable it
+step 6 : Open Google cloud shell
+step 7 : Type the command : gsutil -m cp -r gs://spls/gsp067/python-docs-samples .
+          To install the python files
+step 8 : To get inside the folder type the following command : 
+             cd python-docs-samples/appengine/standard_python3/hello_world
+step 9 : Type this command to view the output 
+             dev_appserver.py app.yaml
+step 10 : View in web Preview
+Step 11 : Open in editor to make changes 
+ To deploy :
+ step 1 : cd python-docs-samples/appengine/standard_python3/hello_world
+ step 2 : gcloud app deploy
+ step 3 : gcloud app browse
+
+
+
+
+
 Step 1 : Open Google cloud platform in browser
 
 Step 2 : Click Console
